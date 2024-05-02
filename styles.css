@@ -1,0 +1,66 @@
+body {
+  font-family: "Roboto";
+}
+
+.navmenu {
+  font-weight: 500;
+}
+
+.contacts {
+  font-weight: 400;
+}
+
+h1 {
+  font-weight: 700;
+  text-align: center;
+  line-height: 60px;
+  font-size: 56px;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.071;
+}
+
+.descriptions {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.header {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.111;
+  text-align: center;
+}
+
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  cursor: pointer;
+}
+
+.navmenu .link:hover {
+  color: #4d5ae5;
+}
+
+.navmenu .link:focus {
+  color: #4d5ae5;
+}
+
+.contacts .link:hover {
+  color: #4d5ae5;
+}
+
+.contacts .link:focus {
+  color: #4d5ae5;
+}
