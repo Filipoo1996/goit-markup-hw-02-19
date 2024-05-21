@@ -34,7 +34,10 @@ h1 {
 .s1head {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.071;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  background-color: #ffffff;
 }
 .section1 {
   background-color: #2e2f42;
